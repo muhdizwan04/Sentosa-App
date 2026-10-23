@@ -104,7 +104,4 @@ npx tsc --noEmit
 - **Chat with the company** is local: replies are written in, nothing is sent.
 - Settings switches (family alerts, notifications, pause Care) live in demo memory and clear on **Reset demo** or **Delete my data**.
 
-## Team
-
-- [@muhdizwan04](https://github.com/muhdizwan04)
-- [@nazrul-beep](https://github.com/nazrul-beep)
+// Reviewed by Adham
