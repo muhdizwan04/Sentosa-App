@@ -103,3 +103,5 @@ npx tsc --noEmit
 - **Navigate** (technician app) opens Apple Maps at Elmina West.
 - **Chat with the company** is local: replies are written in, nothing is sent.
 - Settings switches (family alerts, notifications, pause Care) live in demo memory and clear on **Reset demo** or **Delete my data**.
+
+// Reviewed by Adham
